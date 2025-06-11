@@ -67,7 +67,7 @@ Projekt QuickNotes został zrealizowany przy użyciu następujących technologii
 ________________________________________
 6. Instalacja i Uruchomienie
 Aby skompilować i uruchomić aplikację QuickNotes, wykonaj poniższe kroki. Upewnij się, że masz zainstalowane środowisko Flutter i odpowiednio skonfigurowany emulator lub fizyczne urządzenie mobilne.
-1.	Sklonuj repozytorium projektu: git clone [link_do_repozytorium_github]
+1.	Sklonuj repozytorium projektu: git clone https://github.com/pdziwinski22/QuickNotes
 2.	Przejdź do katalogu projektu: cd quicknotes
 3.	Pobierz zależności Fluttera: flutter pub get
 4.	Uruchom aplikację: flutter run Aplikacja zostanie uruchomiona na podłączonym urządzeniu lub w aktywnym emulatorze.
@@ -89,21 +89,4 @@ o	NoteDetailScreen: Ekran wyświetlający szczegóły pojedynczej notatki.
 ________________________________________
 Aplikacja QuickNotes jest funkcjonalnym przykładem aplikacji mobilnej Flutter, która integruje lokalne zarządzanie danymi z zewnętrznymi usługami sieciowymi. Projekt demonstruje kluczowe aspekty tworzenia aplikacji, takie jak uwierzytelnianie, trwałe przechowywanie danych oraz dynamiczne interfejsy użytkownika.
 
-=======
-# quick_desktop
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 1902c03 (QuickNotes)
