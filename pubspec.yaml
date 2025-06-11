@@ -1,0 +1,43 @@
+name: quicknotes_desktop
+description: "QuickNotes - Desktop Application with WebView"
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.7.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  webview_flutter: ^4.3.1
+  path_provider: ^2.0.15
+  sqlite3_flutter_libs: ^0.5.32
+  sqflite: ^2.3.0
+  http: ^1.4.0 
+  flutter_launcher_icons: ^0.13.1
+  intl: ^0.18.0
+  uuid: ^3.0.7
+  image_picker: ^0.8.7+3
+  crypto: ^3.0.3
+
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/logo.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/logo.png
+  fonts:
+    - family: QuickNotes
+      fonts:
+        - asset: assets/fonts/QuickNotes-Regular.ttf

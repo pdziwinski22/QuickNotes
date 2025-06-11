@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Dokumentacja Projektu: Aplikacja Mobilna QuickNotes
 
 Spis treści
@@ -88,3 +89,21 @@ o	NoteDetailScreen: Ekran wyświetlający szczegóły pojedynczej notatki.
 ________________________________________
 Aplikacja QuickNotes jest funkcjonalnym przykładem aplikacji mobilnej Flutter, która integruje lokalne zarządzanie danymi z zewnętrznymi usługami sieciowymi. Projekt demonstruje kluczowe aspekty tworzenia aplikacji, takie jak uwierzytelnianie, trwałe przechowywanie danych oraz dynamiczne interfejsy użytkownika.
 
+=======
+# quick_desktop
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+>>>>>>> 1902c03 (QuickNotes)
